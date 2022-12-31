@@ -14,7 +14,7 @@ Small story-based D&D game, c++ window desktop application 64bit. Raylib library
 Ether’s Quest is a small story-based ‘D&D game.’
 The game lore is based on the Innistrad universe, and it is where Ether journeys to save his younger sister Clarabella.
 
-The game project started as a c++ console assignment for mu computer science 1 class (COS1030),
+The game project started as a c++ console assignment for my computer science 1 class (COS1030),
 which became a small game app using SFML library, and into a personal project using the Raylib library.
 
 -----------------------------------------------------------------------------------------------------------------------------
