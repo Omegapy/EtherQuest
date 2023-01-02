@@ -84,6 +84,9 @@ Folders
 	- extra_mat        contains ether_quest.pdf project slides and flow_chart_ether_quest.pdf game flowchart
 
 -----------------------------------------------------------------------------------------------------------------------------
+
+Link:
+Quick-dplay demo video of Ether's Quest: https://www.youtube.com/watch?v=W9naxg8oszk&t=204s
         
 
 
