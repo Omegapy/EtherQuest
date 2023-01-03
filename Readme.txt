@@ -85,8 +85,11 @@ Folders
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Link:
-Quick-dplay demo video of Ether's Quest: https://www.youtube.com/watch?v=W9naxg8oszk&t=204s
-        
+Links:
+Quick-play demo video of Ether's Quest: https://www.youtube.com/watch?v=W9naxg8oszk&t=204s
+  
+https://github.com/Omegapy/EtherQuest
+GitHub: https://github.com/Omegapy
+Youtube: https://www.youtube.com/@omegapy (new)        
 
 
